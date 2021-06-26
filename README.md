@@ -15,6 +15,6 @@
     "متن": "چیزی وجود ندارد",
     "باتون1": "چیزی وجود ندارد",
     "عکس2": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/pc/043.jpg",
-    "ادرس3": ""
+    "ادرس3": "https://video-19.dalfak.com/47/47062-828966438920_480.mp4?dl\u003dtrue"
   }
 ]
