@@ -3,7 +3,7 @@
     "متن": "چالش خفن",
     "باتون1": "دیدن فیلم ",
     "عکس2": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/pc/043.jpg",
-    "ادرس3": "https://aparat.com/v/01GB9"
+    "ادرس3": "https://s18.picofile.com/file/8437505500/ali2.mp4.html"
   },
   {
     "متن": "چالش",
