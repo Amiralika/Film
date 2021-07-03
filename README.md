@@ -3,18 +3,42 @@
     "متن": "چالش خفن",
     "باتون1": "دیدن فیلم ",
     "عکس2": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/pc/043.jpg",
-    "ادرس3": "https://s18.picofile.com/file/8437505500/ali2.mp4.html"
+    "ادرس3": "https://aparat.com/v/zwxdm"
+  },
+  {
+    "متن": "گیم پلی ",
+    "باتون1": "دیدن فیلم ",
+    "عکس2": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/pc/043.jpg",
+    "ادرس3": "https://aparat.com/v/6Kg71"
+  },
+  {
+    "متن": "چالش خفن",
+    "باتون1": "دیدن فیلم",
+    "عکس2": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/pc/043.jpg",
+    "ادرس3": "https://aparat.com/v/n0jM9"
+  },
+  {
+    "متن": "گیم پلی ",
+    "باتون1": "دیدن فیلم",
+    "عکس2": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/pc/043.jpg",
+    "ادرس3": "https://aparat.com/v/bqmJ0"
+  },
+  {
+    "متن": "فان",
+    "باتون1": "دیدن فیلم",
+    "عکس2": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/pc/043.jpg",
+    "ادرس3": "https://aparat.com/v/Aonc7"
+  },
+  {
+    "متن": "گیم پلی",
+    "باتون1": "دیدن فیلم",
+    "عکس2": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/pc/043.jpg",
+    "ادرس3": "https://aparat.com/v/g60Dd"
   },
   {
     "متن": "چالش",
-    "باتون1": "دیدن فیلم ",
+    "باتون1": "دیدن فیلم",
     "عکس2": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/pc/043.jpg",
-    "ادرس3": "https://aparat.com/v/uNU84"
-  },
-  {
-    "متن": "چیزی وجود ندارد",
-    "باتون1": "چیزی وجود ندارد",
-    "عکس2": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/pc/043.jpg",
-    "ادرس3": "https://video-19.dalfak.com/47/47062-828966438920_480.mp4?dl\u003dtrue"
+    "ادرس3": "https://aparat.com/v/01GB9"
   }
 ]
