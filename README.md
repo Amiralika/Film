@@ -38,7 +38,7 @@
   {
     "متن": "چالش",
     "باتون1": "دیدن فیلم",
-    "عکس2": "https://s4.uupload.ir/files/screenshot_۲۰۲۱۰۷۰۷_۱۷۰۱۳۸_2zcd.jpg ",
+    "عکس2": "https://s4.uupload.ir/files/screenshot_۲۰۲۱۰۷۰۷_۱۷۰۱۳۸_2zcd.jpg",
     "ادرس3": "https://aparat.com/v/01GB9"
   }
 ]
